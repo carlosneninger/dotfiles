@@ -22,6 +22,7 @@ $packages = @(
     "notepadplusplus.install"
     "P4Merge"
     "pidgin"
+    "poshgit"
     "python3"
     "kitty"
     "putty"
