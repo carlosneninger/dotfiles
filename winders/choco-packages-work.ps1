@@ -31,6 +31,7 @@ $packages = @(
     "redis-64"
     "ruby"
     "screenhero"
+    "scriptcs"
     "slack"
     "sysinternals"
     "windirstat"
