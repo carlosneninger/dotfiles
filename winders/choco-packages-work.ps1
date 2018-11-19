@@ -15,6 +15,7 @@ $packages = @(
     "fiddler4"
     "Firefox"
     "GoogleChrome"
+    "gpg4win"
     "hackfont"
     "html-tidy"
     "jq"
